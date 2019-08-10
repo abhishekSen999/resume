@@ -25,23 +25,22 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Bengali
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Swimming
         link:
 
       - item: Cooking
         link:
+
+     
 
 career-profile:
     title: Career Profile
