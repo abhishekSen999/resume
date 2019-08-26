@@ -120,18 +120,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JAVA
-        level: 85%
+      - type: languages  
+        type_list:
+          - name: JAVA
+            level: 85%
 
-      - name: Python
-        level: 60%
+          - name: Python
+            level: 60%
 
-      - name: C
-        level: 60%
-
+          - name: C
+            level: 60%
+          
+          - name: JS es6
+            level: 50%
+        
+      - type: database
+        type_list:
+          - name: oracle
+            level: 50%
       
-      - name: javascript es6
-        level: 50%
-
+      - type: others
+        type_list:
+          - name: Git
+            level: 60%
+        
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
