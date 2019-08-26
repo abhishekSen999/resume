@@ -21,7 +21,7 @@
    .sidebar-wrapper {
       position: static;
       float: right;
-      width: 40%;
+      width: 38%;
       -webkit-print-color-adjust: exact; 
    }
 
@@ -29,9 +29,9 @@
       display: none;
    }
 
-   // .languages-container.container-block {
-   //    display: none;
-   // }
+   .languages-container.container-block {
+      display: block;
+   }
    // .interests-container.container-block{
    //    display: none;
    // }
@@ -47,5 +47,8 @@
    .main-wrapper {
       text-align: left;
    }
+   a[href]:after {
+      content: none !important;
+    }
 
 }
