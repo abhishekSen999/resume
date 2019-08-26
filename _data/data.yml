@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: abhishek.mcs18.du@gmail.com
+    email: mail@abhisheksen.me
     phone: (+91)7059931910
     website: abhisheksen.me #do not add http://
     linkedin: abhishekSen999
@@ -50,10 +50,12 @@ education:
     - degree: MSc in Computer Science
       university: University of Delhi
       time: 2018 - Present
+      percentage: 81.5
       
     - degree: BSc in Computer Science
       university: St. Xavier's College Kolkata
       time: 2015 - 2018
+      percentage: 78.72
       
 
 # experiences:
@@ -82,7 +84,7 @@ projects:
                   | Database: Oracle connected using JDBC.
                   | Role:Implemented Genetic Algorithm for given problem, connected to database using JDBC"
         
-      - title: getblock_implimentation
+      - title: Getblock Implimentation
         link: https://github.com/abhishekSen999/getblock_implimentation
         tagline: "Simulation of Buffer-Cache of UNIX system V using C."
 

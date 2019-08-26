@@ -165,10 +165,10 @@ p {
         color: darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .section {
-        margin-bottom: 60px;
+        margin-bottom: 30px;
     }
 
     .experiences-section, .educations-section {
@@ -207,10 +207,10 @@ p {
     }
     .projects-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
     }
 
@@ -227,10 +227,10 @@ p {
     }
     .publications-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
     }
 }
