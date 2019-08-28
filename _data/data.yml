@@ -120,7 +120,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - type: languages  
+      - type: Languages  
         type_list:
           - name: JAVA
             level: 85%
@@ -134,15 +134,17 @@ skills:
           - name: JS es6
             level: 50%
         
-      - type: database
+      - type: Database
         type_list:
           - name: oracle
             level: 50%
       
-      - type: others
+      - type: Others
         type_list:
           - name: Git
             level: 60%
+          - name: LINUX
+            level: 80%
         
 footer: >
     Download <a href="pdf_version/resume.pdf" target="_blank" rel="nofollow">PDF</a> version.

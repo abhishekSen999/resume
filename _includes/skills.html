@@ -17,20 +17,28 @@
 
     {% for skill_type in skills.toolset %}
    
-      {% for skill in skill_type.type_list %}
+      
+      <div class ="skill-type">
+        <h3 class ="skill-type-name">{{ skill_type.type }}: </h3>  
       
       
-        <div class="item">
+        {% for skill in skill_type.type_list %}
+        
+        
+          <div class="item">
 
-          <h3 class="level-title">{{ skill.name }}</h3>
+            <h4 class="level-title">{{ skill.name }}</h4>
 
-          <div class="level-bar">
-            <div class="level-bar-inner" data-level="{{ skill.level }}">
-            </div>
-          </div><!--//level-bar-->
+            <!-- <div class="level-bar"> 
+              <div class="level-bar-inner" data-level="{{ skill.level }}">
+              </div>
+            </div> -->
+            <!--//level-bar-->
 
-        </div><!--//item-->
+          </div><!--//item-->
+        
         {% endfor %}
+       </div>
     {% endfor %}
 
   </div>
