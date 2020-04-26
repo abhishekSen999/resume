@@ -89,7 +89,7 @@ projects:
         tagline: "Simulation of Buffer-Cache of UNIX system V using C."
 
       - title: Analysis of Crimes Against Women in India
-        link: "#"
+        link: https://abhisheksen.me/projects/AnalysisOfCrimesAgainstWomenInIndia/
         tagline: "Aim was to analyse and predict discernible patterns in crime types and crime rates.(Data Mining) | Dataset was from National Crime Records Bureau."
 
       - title: Mass Video Downloader
