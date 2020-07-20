@@ -1,62 +1,59 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Abhishek Sen
-    tagline: CS Student | Budding Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Abhishek Sen
+  tagline: CS Student | Budding Software Engineer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: mail@abhisheksen.me
-    phone: (+91)7059931910
-    website: abhisheksen.me #do not add http://
-    linkedin: abhishekSen999
-    github: abhishekSen999
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+  # Sidebar links
+  email: mail@abhisheksen.me
+  phone: (+91)7059931910
+  website: abhisheksen.me #do not add http://
+  linkedin: abhishekSen999
+  github: abhishekSen999
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
 
-    languages:
-      - idiom: English
-        level: Professional
+  languages:
+    - idiom: English
+      level: Professional
 
-      - idiom: Hindi
-        level: Professional
+    - idiom: Hindi
+      level: Professional
 
-      - idiom: Bengali
-        level: Native
-        
-    interests:
-      - item: Swimming
-        link:
+    - idiom: Bengali
+      level: Native
 
-      - item: Cooking
-        link:
+  interests:
+    - item: Swimming
+      link:
 
-     
+    - item: Cooking
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      A budding Software Engineer, tech enthusiast, Chegg Q&A Expert and a Computer Science Student. 
+  title: Career Profile
+  summary: |
+    A budding Software Engineer, tech enthusiast, Chegg Q&A Expert and a Computer Science Student.
 education:
-    - degree: MSc in Computer Science
-      university: University of Delhi
-      time: 2018 - 2020
-      percentage: 81.5
-      
-    - degree: BSc in Computer Science
-      university: St. Xavier's College Kolkata
-      time: 2015 - 2018
-      percentage: 78.72
-      
+  - degree: MSc in Computer Science
+    university: University of Delhi
+    time: 2018 - 2020
+    percentage: 81.5
+
+  - degree: BSc in Computer Science
+    university: St. Xavier's College Kolkata
+    time: 2015 - 2018
+    percentage: 78.72
 
 # experiences:
 #     - role: Lead Developer
@@ -66,54 +63,51 @@ education:
 #         pretium quis, sem.
 
 #           - Bullet point
-#           - Bullet point 
-
-
-
+#           - Bullet point
 
 projects:
-    title: Projects
-    intro: >
-      Here are few Projects I took up individually as well as in a team.
+  title: Projects
+  intro: >
+    Here are few Projects I took up individually as well as in a team.
 
-    assignments:
-      - title: Accolite University Management System ( Onboarding Module )
-        link: https://github.com/abhishekSen999/AU_Management_System_backend
-        tagline: "Onboarding Module for AU Project.
-                  | Backend : Spring Boot
-                  | Database : MySQL connected using JDBC Driver and used JDBC Template for accessing data.
-                  | Frontend : Angular 9 
-        
-      - title: SXC Time Table Generator
-        link: https://github.com/abhishekSen999/SXCTimeTableGenerator
-        tagline: "A Java based application for generation of Timetable for St.Xavier's College Kolkata using Genetic Algorithm.
-                  | GUI: Java Swing.
-                  | Database: Oracle connected using JDBC.
-                  | Role:Implemented Genetic Algorithm for given problem, connected to database using JDBC"
-        
-      - title: Getblock Implimentation
-        link: https://github.com/abhishekSen999/getblock_implimentation
-        tagline: "Simulation of Buffer-Cache of UNIX system V using C."
+  assignments:
+    - title: Accolite University Management System ( Onboarding Module )
+      link: https://github.com/abhishekSen999/AU_Management_System_backend
+      tagline: "Onboarding Module for AU Project.
+        | Backend : Spring Boot
+        | Database : MySQL connected using JDBC Driver and used JDBC Template for accessing data.
+        | Frontend : Angular 9"
 
-      - title: Analysis of Crimes Against Women in India
-        link: https://abhisheksen.me/projects/AnalysisOfCrimesAgainstWomenInIndia/
-        tagline: "Aim was to analyse and predict discernible patterns in crime types and crime rates.(Data Mining) | Dataset was from National Crime Records Bureau."
+    - title: SXC Time Table Generator
+      link: https://github.com/abhishekSen999/SXCTimeTableGenerator
+      tagline:
+        "A Java based application for generation of Timetable for St.Xavier's College Kolkata using Genetic Algorithm.
+        | GUI: Java Swing.
+        | Database: Oracle connected using JDBC.
+        | Role:Implemented Genetic Algorithm for given problem, connected to database using JDBC"
 
-      - title: Mass Video Downloader
-        link: "https://github.com/abhishekSen999/Mass-Video-Downloader"
-        tagline: "A Chrome Extension to scrape a provided url and download available videos one-by-one to prevent overcrowding of weak servers which result in Error 503."
+    - title: Getblock Implimentation
+      link: https://github.com/abhishekSen999/getblock_implimentation
+      tagline: "Simulation of Buffer-Cache of UNIX system V using C."
 
-      
+    - title: Analysis of Crimes Against Women in India
+      link: https://abhisheksen.me/projects/AnalysisOfCrimesAgainstWomenInIndia/
+      tagline: "Aim was to analyse and predict discernible patterns in crime types and crime rates.(Data Mining) | Dataset was from National Crime Records Bureau."
+
+    - title: Mass Video Downloader
+      link: "https://github.com/abhishekSen999/Mass-Video-Downloader"
+      tagline: "A Chrome Extension to scrape a provided url and download available videos one-by-one to prevent overcrowding of weak servers which result in Error 503."
+
 publications:
-    title: Publications
-    # intro: |
-    #   Here is a publicatio
+  title: Publications
+  # intro: |
+  #   Here is a publicatio
 
-    papers:
-      - title: Bit Level Symmetric Key Cryptography using Genetic Algorithm
-        link: https://ieeexplore.ieee.org/document/8418536
-        authors: Abhishek Sen , Attri Ghosh , Ashok Nath
-        conference: 2017 7th International Conference on Communication Systems and Network Technologies (CSNT)
+  papers:
+    - title: Bit Level Symmetric Key Cryptography using Genetic Algorithm
+      link: https://ieeexplore.ieee.org/document/8418536
+      authors: Abhishek Sen , Attri Ghosh , Ashok Nath
+      conference: 2017 7th International Conference on Communication Systems and Network Technologies (CSNT)
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
@@ -124,41 +118,41 @@ publications:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - type: Languages  
-        type_list:
-          - name: JAVA
-            level: 85%
+  toolset:
+    - type: Languages
+      type_list:
+        - name: JAVA
+          level: 85%
 
-          - name: Python
-            level: 60%
+        - name: Python
+          level: 60%
 
-          - name: C
-            level: 60%
-          
-          - name: Javascript
-            level: 50%
-        
-      - type: Database
-        type_list:
-          - name: oracle
-            level: 50%
+        - name: C
+          level: 60%
 
-      - type: Framework
-        type_list:
-          - name: Spring Boot
-            level: 60%
-          - name: Angular
-            level: 80%
+        - name: Javascript
+          level: 50%
 
-      - type: Others
-        type_list:
-          - name: Git
-            level: 60%
-          - name: LINUX
-            level: 80%
-        
+    - type: Database
+      type_list:
+        - name: oracle
+          level: 50%
+
+    - type: Framework
+      type_list:
+        - name: Spring Boot
+          level: 60%
+        - name: Angular
+          level: 80%
+
+    - type: Others
+      type_list:
+        - name: Git
+          level: 60%
+        - name: LINUX
+          level: 80%
+
 footer: >
-    Download <a href="pdf_version/resume.pdf" target="_blank" rel="nofollow">PDF</a> version.
+  Download <a href="pdf_version/resume.pdf" target="_blank" rel="nofollow">PDF</a> version.
