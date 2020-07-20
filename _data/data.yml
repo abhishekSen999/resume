@@ -76,7 +76,8 @@ projects:
       tagline: "Onboarding Module for AU Project.
         | Backend : Spring Boot
         | Database : MySQL connected using JDBC Driver and used JDBC Template for accessing data.
-        | Frontend : Angular 9"
+        | Frontend : Angular 9
+        | Google OAuth"
 
     - title: SXC Time Table Generator
       link: https://github.com/abhishekSen999/SXCTimeTableGenerator
