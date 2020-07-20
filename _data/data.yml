@@ -40,6 +40,26 @@ sidebar:
     - item: Cooking
       link:
 
+  co-curriculars:
+    - designation: President
+      organization: International Students' House, University of Delhi
+      time: 2019 - 2020
+
+    - designation: Secretary
+      organization: St. Xavier's College Kolkata Science Association
+      time: 2016 - 2017
+
+    - designation: Director
+      organization: Department of Hospitality, St. Xavier's College Kolkata
+      time: Xavotsav 2017
+  #  - designation: President
+  #     organization: International Students' House, University of Delhi
+  #     time: 2019 - 2020
+  #     details: |
+  #     Describe your activity here
+  #       - Bullet point
+  #       - Bullet point
+
 career-profile:
   title: Career Profile
   summary: |
