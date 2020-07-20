@@ -49,7 +49,7 @@ career-profile:
 education:
     - degree: MSc in Computer Science
       university: University of Delhi
-      time: 2018 - Present
+      time: 2018 - 2020
       percentage: 81.5
       
     - degree: BSc in Computer Science
@@ -77,6 +77,13 @@ projects:
       Here are few Projects I took up individually as well as in a team.
 
     assignments:
+      - title: Accolite University Management System ( Onboarding Module )
+        link: https://github.com/abhishekSen999/AU_Management_System_backend
+        tagline: "Onboarding Module for AU Project.
+                  | Backend : Spring Boot
+                  | Database : MySQL connected using JDBC Driver and used JDBC Template for accessing data.
+                  | Frontend : Angular 9 
+        
       - title: SXC Time Table Generator
         link: https://github.com/abhishekSen999/SXCTimeTableGenerator
         tagline: "A Java based application for generation of Timetable for St.Xavier's College Kolkata using Genetic Algorithm.
@@ -138,7 +145,14 @@ skills:
         type_list:
           - name: oracle
             level: 50%
-      
+
+      - type: Framework
+        type_list:
+          - name: Spring Boot
+            level: 60%
+          - name: Angular
+            level: 80%
+
       - type: Others
         type_list:
           - name: Git
