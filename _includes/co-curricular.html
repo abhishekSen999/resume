@@ -12,7 +12,7 @@
         <h4 class="degree">{{ activity.designation }}</h4>
         <h5 class="meta">{{ activity.organization }}</h5>
         <div class="time">{{ activity.time }}</div>
-        {% if graduation.details %}
+        {% if activity.details %}
         <div class="details">
             {{ activity.details | markdownify }}
         </div>
