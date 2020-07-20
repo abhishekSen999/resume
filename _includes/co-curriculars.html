@@ -1,0 +1,27 @@
+{% assign co-curricular = site.data.data.co-curricular %}
+{% if co-curricular %}
+<!-- {% if site.data.data.sidebar.co-curricular %} -->
+<div class="co-curricular-container container-block">
+
+    <h2 class="container-block-title">
+        Co-curricular
+    </h2>
+
+    {% for activity in co-curricular %}
+    <div class="item">
+        <h4 class="degree">{{ activity.designation }}</h4>
+        <h5 class="meta">{{ activity.organization }}</h5>
+        <div class="time">{{ activity.time }}</div>
+        {% if graduation.details %}
+        <div class="details">
+            {{ graduation.details | markdownify }}
+        </div>
+        <!--//details-->
+        {% endif %}
+    </div>
+    <!--//item-->
+    {% endfor %}
+
+</div>
+
+{% endif %}
