@@ -8,13 +8,13 @@ sidebar:
 
   # Profile information
   name: Abhishek Sen
-  tagline: CS Student | Budding Software Engineer
+  tagline: Technologist | Free thinker
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: mail@abhisheksen.me
+  email: abhishek.sen999@gmail.com
   phone: (+91)7059931910
-  website: abhisheksen.me #do not add http://
+  website: www.sen.codes #do not add http://
   linkedin: abhishekSen999
   github: abhishekSen999
   gitlab:
@@ -125,7 +125,7 @@ projects:
       tagline: "Simulation of Buffer-Cache of UNIX system V using C."
 
     - title: Analysis of Crimes Against Women in India
-      link: https://abhisheksen.me/projects/AnalysisOfCrimesAgainstWomenInIndia/
+      link: https://www.sen.codes/projects/AnalysisOfCrimesAgainstWomenInIndia/
       tagline: "Aim was to analyse and predict discernible patterns in crime types and crime rates.(Data Mining) | Dataset was from National Crime Records Bureau."
 
     - title: Mass Video Downloader
