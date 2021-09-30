@@ -170,6 +170,10 @@ skills:
 
     - type: Database
       type_list:
+        - name: IBM Db2
+          level: 50%
+        - name: Sybase
+          level: 50%  
         - name: oracle
           level: 50%
 
@@ -177,6 +181,8 @@ skills:
       type_list:
         - name: Spring Boot
           level: 60%
+        - name: Spring Webflux
+          level: 60%  
         - name: Angular
           level: 80%
 
@@ -186,6 +192,12 @@ skills:
           level: 60%
         - name: LINUX
           level: 80%
+        - name: IBM MQ
+          level: 60%
+        - name: Ignite
+          level: 60%    
+        - name: Hazelcast
+          level: 60%    
 
 footer: >
   Download <a href="pdf_version/resume.pdf" target="_blank" rel="nofollow">PDF</a> version.
