@@ -63,7 +63,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A budding Software Engineer, tech enthusiast, Chegg Q&A Expert and a Computer Science Student.
+    A Software Engineer, problem solver & fast learner with a keeninterest in learning new technology and adapt to business need.
 education:
   - degree: MSc in Computer Science
     university: University of Delhi
@@ -75,15 +75,28 @@ education:
     time: 2015 - 2018
     percentage: 78.72
 
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         pretium quis, sem.
+experiences:
+    - role: Senior Software Engineer
+      time: Aug 2021 - Present
+      company: AccoliteDigital, Onsite-Consultant @ MorganStanley
+      details: |
+        Taken complete ownership of projects including major design decisions.<br/>
+        Data warehousing of listed derivatives trades in Firm.<br/>
+        Trade Pairing And PnL Realization Infrastructure.<br/>
+      
+        Prominent Projects are listed below. <br/>
 
-#           - Bullet point
-#           - Bullet point
+          - Designed reactive webfront( for underlying backend with business logic) using Spring Webflux with eventloop pattern to bridge the gap between a non-reactive upstream and a reactive fontend.  
+          - Designed Generic Process to reconsile Commissions&Charges from multiple Vendor Systems with MorganStanley data and post automated Journals.
+    
+    - role: Software Engineer
+      time: 2020 - Jul 2021
+      company: AccoliteDigital, Onsite-Consultant @ MorganStanley
+      details: |
+        Depelopement to fullfill client asks on projects owned by team.<br/>
+        Maintain production Support for projects owned by team.<br/>
+
+          - Proactively improved performance of Hazelcast cacheload process by ~ 95%    
 
 projects:
   title: Projects
