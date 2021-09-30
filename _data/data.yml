@@ -63,7 +63,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A Software Engineer, problem solver & fast learner with a keeninterest in learning new technology and adapt to business need.
+    A Software Engineer, problem solver & fast learner with a keen interest in learning new technology and adapt to business need.
 education:
   - degree: MSc in Computer Science
     university: University of Delhi
@@ -81,9 +81,7 @@ experiences:
       company: AccoliteDigital, Onsite-Consultant @ MorganStanley
       details: |
         Taken complete ownership of projects including major design decisions.<br/>
-        Data warehousing of listed derivatives trades in Firm.<br/>
         Trade Pairing And PnL Realization Infrastructure.<br/>
-      
         Prominent Projects are listed below. <br/>
 
           - Designed reactive webfront( for underlying backend with business logic) using Spring Webflux with eventloop pattern to bridge the gap between a non-reactive upstream and a reactive fontend.  
@@ -93,7 +91,8 @@ experiences:
       time: 2020 - Jul 2021
       company: AccoliteDigital, Onsite-Consultant @ MorganStanley
       details: |
-        Depelopement to fullfill client asks on projects owned by team.<br/>
+        Data warehousing of listed derivatives trades in MorganStanley.<br/>
+        Felicitated improvements on projects owned by team.<br/>
         Maintain production Support for projects owned by team.<br/>
 
           - Proactively improved performance of Hazelcast cacheload process by ~ 95%    
@@ -120,9 +119,9 @@ projects:
         | Database: Oracle connected using JDBC.
         | Role:Implemented Genetic Algorithm for given problem, connected to database using JDBC"
 
-    - title: Getblock Implimentation
+    - title: Getblock Implementation
       link: https://github.com/abhishekSen999/getblock_implimentation
-      tagline: "Simulation of Buffer-Cache of UNIX system V using C."
+      tagline: "Simulation of Buffer-Cache of UNIX system V using Python."
 
     - title: Analysis of Crimes Against Women in India
       link: https://www.sen.codes/projects/AnalysisOfCrimesAgainstWomenInIndia/
