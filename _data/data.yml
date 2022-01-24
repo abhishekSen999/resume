@@ -80,22 +80,24 @@ experiences:
       time: Aug 2021 - Present
       company: AccoliteDigital, Onsite-Consultant @ MorganStanley
       details: |
-        Taken complete ownership of projects including major design decisions.<br/>
-        Trade Pairing And PnL Realization Infrastructure.<br/>
+        - Trade Pairing And PnL Realization Infrastructure.<br/>
+        - Taken complete ownership of projects including design decisions.<br/>
         Prominent Projects are listed below. <br/>
 
-          - Designed reactive webfront( for underlying backend with business logic) using Spring Webflux with eventloop pattern to bridge the gap between a non-reactive upstream and a reactive fontend.  
-          - Designed Generic Process to reconsile Commissions&Charges from multiple Vendor Systems with MorganStanley data and post automated Journals.
+          - Designed Generic Process to reconcile Commissions&Charges from multiple Vendor Systems with MorganStanley data and post automated Journals.
+          - Part of Team working on complete renovation of Trade Pairing infrastructure.
+#           - Designed reactive webfront( for underlying backend with business logic) using Spring Webflux with eventloop pattern to bridge the gap between a non-reactive upstream and a reactive fontend.  
+          
     
     - role: Software Engineer
       time: 2020 - Jul 2021
       company: AccoliteDigital, Onsite-Consultant @ MorganStanley
       details: |
-        Data warehousing of listed derivatives trades in MorganStanley.<br/>
-        Felicitated improvements on projects owned by team.<br/>
-        Maintain production Support for projects owned by team.<br/>
+        - Data warehousing of listed derivatives trades in MorganStanley.<br/>
+        - Felicitated improvements on projects owned by team.<br/>
+        - Maintain production Support for projects owned by team.<br/>
 
-          - Proactively improved performance of Hazelcast cacheload process by ~ 95%    
+          - Proactively improved performance of Hazelcast cache load process by ~ 95%    
 
 projects:
   title: Projects
@@ -142,13 +144,6 @@ publications:
       authors: Abhishek Sen , Attri Ghosh , Ashok Nath
       conference: 2017 7th International Conference on Communication Systems and Network Technologies (CSNT)
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
