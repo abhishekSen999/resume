@@ -174,7 +174,7 @@ skills:
           level: 50%
         - name: Sybase
           level: 50%  
-        - name: oracle
+        - name: Oracle
           level: 50%
 
     - type: Framework
