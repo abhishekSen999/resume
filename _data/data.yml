@@ -76,8 +76,24 @@ education:
     percentage: 78.72
 
 experiences:
+    - role: Software Engineer
+      time: May 2021 - Present
+      company: Morgan Stanley
+      details: |
+        - Awarded the Grass Root Innovation in Technology Award 2023 for Single handedly creating "Perses - The Intelligent Auto Scaling Load Generation Framework".
+        This was created as a general purpose library which could be used to generate any form of dynamic load for any form of target with basic configurations.<br/>
+        - Maintained Complete ownership of PnL Realization Infrastructure of Listed Derivative Business.<br/>
+        - Key developer in renovation project of PnL Realization System.<br/>
+        Prominent Projects are listed below. <br/>
+          - Designed the renovated Pairing infrastructure.
+          - Key contributor towards performance improvement of the application.
+          - Designed highly multithreaded load generation framework - Perses.
+           
+#           - Designed reactive webfront( for underlying backend with business logic) using Spring Webflux with eventloop pattern to bridge the gap between a non-reactive upstream and a reactive fontend.  
+          
+
     - role: Senior Software Engineer
-      time: Aug 2021 - Present
+      time: Aug 2021 - April 2022
       company: AccoliteDigital, Onsite-Consultant @ MorganStanley
       details: |
         - Trade Pairing And PnL Realization Infrastructure.<br/>
