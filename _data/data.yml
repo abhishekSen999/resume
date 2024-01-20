@@ -34,6 +34,9 @@ sidebar:
       level: Native
 
   interests:
+    - item: Playing Violin
+      link:
+
     - item: Swimming
       link:
 
@@ -118,7 +121,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Here are few Projects I took up individually as well as in a team.
+    Here are few Projects I took up individually as well as in a team. (These projects are not associated with any company)
 
   assignments:
     - title: Accolite University Management System ( Onboarding Module )
