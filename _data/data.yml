@@ -87,9 +87,9 @@ experiences:
         This system is 800% faster than the legacy system with no dedicated Database and extremely slim hardware footprint.
         - Designed Algorithms and invented custom data structures to achieve this level of performance.
         - PairPlus is highly scalable due to its non-blocking data access pattern.
-        
+
     - role: Senior Associate
-      time: May 2022 - Present
+      time: May 2022 - Oct 2024
       company: Morgan Stanley
       details: |
         - Awarded the Grass Root Innovation in Technology Award 2023 for single handedly creating "Perses - The Intelligent Auto Scaling Load Generation Framework".
