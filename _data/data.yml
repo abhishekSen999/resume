@@ -84,7 +84,7 @@ experiences:
       company: Morgan Stanley
       details: |
         Architect of the renovated Listed Derivative Pairing System - PairPlus.
-        This system is 800% faster than the legacy system with no dedicated Database and extremely slim hardware footprint.
+        This system is 800% faster than the legacy system while working with a shared database (legacy system had dedicated database) and extremely slim hardware footprint.
         - Designed Algorithms and invented custom data structures to achieve this level of performance.
         - PairPlus is highly scalable due to its non-blocking data access pattern.
 
